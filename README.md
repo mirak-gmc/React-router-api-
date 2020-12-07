@@ -34,9 +34,14 @@ Created with CodeSandbox
 
 
 Links : 
+
 JSON placeholder: https://jsonplaceholder.typicode.com/
+
 react-Bootstrap : https://react-bootstrap.github.io/
+
 react-router-dom : https://reactrouter.com/web/guides/quick-start
+
 fetch Tuto :  https://www.freecodecamp.org/news/javascript-fetch-api-tutorial-with-js-fetch-post-and-header-examples/
+
 
 # Video LINK : 
